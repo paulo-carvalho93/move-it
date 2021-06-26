@@ -1,7 +1,7 @@
 <div align="center">
 
 <p align="center">
-  <img alt="screenshot" src="./src/assets/logomoveit.svg" width="300px" />
+  <img alt="screenshot" src="./src/assets/logo-moveit.svg" width="300px" />
 <p>
 
 <p align="center">
@@ -34,7 +34,7 @@ The idea of this mini project is just to boost my abilities with React.js, Types
 - [Technology](#rocket-technology)
   - [Application](#computer-web)
 - [How to run](#boom-how-to-run)
-  - [Web](#computer-web-1)
+  - [Web](#computer-web)
 
 
 ## :rocket: Technology
