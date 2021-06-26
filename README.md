@@ -9,14 +9,16 @@
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/paulo-carvalho93/github-explorer">
 </p>
 
-**Move-it** is a project to help people to make more exercises.
+**Move-it** is a project to help people to make more exercises at home/work.
 
 
 The idea of this mini project is just to boost my abilities with React.js, Typescript, and NextJS.
 
 <p align="center">
   <img alt="screenshot1" width="400px" src="./.github/assets/move-it-01.png" />
-  <img alt="screenshot2" width="400px" src="./.github/assets/move-it-02.png" />
+  
+  <img alt="screenshot2" width="375px" src="./.github/assets/move-it-02.png" />
+  
   <img alt="screenshot3" width="400px" src="./.github/assets/move-it-03.png" />
 <p>
 
